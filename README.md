@@ -25,9 +25,10 @@ Aqui você encontrará projetos que refletem minha jornada de aprendizado e inte
 
 ## Estatísticas
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gfernandes4&show_icons=true&theme=dark)
-
-
+<div style="display: flex;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfernandes4&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfernandes4&layout=compact&langs_count=6&theme=dark"/>
+</div>
 
 ## Conecte-se comigo
 
