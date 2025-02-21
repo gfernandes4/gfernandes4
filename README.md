@@ -7,6 +7,7 @@
 - 🎨 Tenho experiência em **UI/UX Design.**
 - 🚀Entusiasta de **programação competitiva.**
 - 📱Iniciando minha jornada no **desenvolvimento web e mobile.**
+- 📊 Interessado em **Análise de Dados** e **Inteligência Artificial.**  
 
 Aqui você encontrará projetos que refletem minha jornada de aprendizado e interesses. 🚀✨
 
@@ -26,7 +27,6 @@ Aqui você encontrará projetos que refletem minha jornada de aprendizado e inte
 ## Estatísticas
 
 <div style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfernandes4&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfernandes4&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
