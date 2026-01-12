@@ -24,12 +24,6 @@ Aqui você encontrará projetos que refletem minha jornada de aprendizado e inte
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </div>
 
-## Estatísticas
-
-<div style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfernandes4&layout=compact&langs_count=6&theme=dark"/>
-</div>
-
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fernandes-de-oliveira-caitano-88bb03239/)
