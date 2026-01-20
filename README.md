@@ -7,7 +7,7 @@
 - 🎨 Tenho experiência em **UI/UX Design.**
 - 🚀Entusiasta de **programação competitiva.**
 - 📱Iniciando minha jornada no **desenvolvimento web e mobile.**
-- 📊 Interessado em **Análise de Dados** e **Inteligência Artificial.**  
+- 📊 Interessado em **Inteligência Artificial.**  
 
 Aqui você encontrará projetos que refletem minha jornada de aprendizado e interesses. 🚀✨
 
