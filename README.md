@@ -34,6 +34,5 @@ Aqui você encontrará projetos que refletem minha jornada de aprendizado e inte
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fernandes-de-oliveira-caitano-88bb03239/)
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gfernandes4)
 
 
