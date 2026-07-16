@@ -5,9 +5,8 @@
 
 - 🎓 Estudante de **Ciência da Computação** apaixonado por tecnologia e design.
 - 🎨 Tenho experiência em **UI/UX Design.**
-- 🚀Entusiasta de **programação competitiva.**
-- 📱Iniciando minha jornada no **desenvolvimento web e mobile.**
-- 📊 Interessado em **Inteligência Artificial.**  
+- 📱Aprimorando minhas habilidades no **desenvolvimento web e mobile.**
+- 📊 Focado em soluções com **Inteligência Artificial.**  
 
 Aqui você encontrará projetos que refletem minha jornada de aprendizado e interesses. 🚀✨
 
